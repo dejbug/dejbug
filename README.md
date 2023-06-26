@@ -1,4 +1,14 @@
-### Hi there 👋
+### Hi there! 👋
+
+My name is Dejan Budimir.
+
+I'm a neuro-diverse computer geek. I am unemployed and welfare-dependent.
+
+Which is pretty much the same sentence translated into German and back.
+
+I would ask you to buy me a coffee but the government would drink it.
+
+Have a wonderful day!
 
 <!--
 **dejbug/dejbug** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
