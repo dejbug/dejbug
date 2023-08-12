@@ -1,8 +1,10 @@
 ### Hi there! 👋
 
-This is Dejan Budimir.
+This is Dejan Budimir. Premature optimization is my middle name.
 
-Doing self-therapeutic programming.
+Currently I'm trying to do too many things at once. I don't do burnout. I do clinical depression.
+
+**God is in the details.**
 
 Have a wonderful day!
 
