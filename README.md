@@ -1,12 +1,10 @@
 ### Hi there! 👋
 
-This is Dejan Budimir. Premature optimization is my middle name.
+This is Dejan Budimir.
 
-Currently I'm trying to do too many things at once. I don't do burnout. I do clinical depression.
+I've got nothing.
 
-**God is in the details.**
-
-Have a wonderful day!
+Cheers!
 
 <!--
 **dejbug/dejbug** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
